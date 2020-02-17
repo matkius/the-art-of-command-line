@@ -74,7 +74,7 @@ Poznámky:
 - V Bashi používejte **Tab** k dokončení argumentů nebo vylistování všech dostupných příkazů a **ctrl-r** k vyhledávání v historii příkazů (po stisknutí pište pro hledání a poté mačkejte opakovaně **ctrl-r** k procházení více shod, **Enter** k provedení nalezeného příkazu nebo šipku vpravo pro vložení výsledku hledání do terminálu a následnou editaci).
 
 - V Bashi používejte **ctrl-w** pro smazní posledního slova a **ctrl-u** pro smazání všeho od současné pozice kurzoru až po začátek řádku. Používejte **alt-b** a **alt-f** k procházení řádku po slovech, **ctrl-a** pro skok na začátek řádku, **ctrl-e** pro skok kurzoru na konec řádku, **ctrl-k** pro smazání všeho od současné pozice až ke konci řádku, **ctrl-l** pro vyčištění obrazovky. Prohlédněte si `man readline` pro všechny defaultní klávesové zkratky v Bashi. Je jich hodně. Například **alt-.** projíždí předchozí argumenty a **alt-*** rozšíří řetězec.
-
+ffggfgh
 - Pokud milujete klávesové zkratky ve stylu *vi*, použijte `set -o vi` (a `set -o emacs` pro návrat ke standardnímu rozložení).
 
 - Pro úpravu dlouhých příkazů, po nastavení vašeho editoru (například `export EDITOR=vim`), **ctrl-x** **ctrl-e** v něm otevře stávající příkaz pro víceřádkovou úpravu. Nebo ve *vi* stylu, **escape-v**.
